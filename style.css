@@ -1,0 +1,83 @@
+* {
+    font-family: arial, sans-serif
+}
+header {
+    background-color: #1F2937;
+    padding: 45px;
+    margin: 0px 0px;
+    padding-bottom: 80px;
+}
+.topnav {
+    padding: 0px 20px 25px 20px;
+    background-color: #1F2937;
+}
+
+.topnav-right a {
+    font-size: 18px;
+    color: #e5e7eb;
+    float: right;
+    padding: 14px 16px;
+}
+.placeImage {
+    float: right;
+    display: flex;
+}
+.Second {
+    background-color: aquamarine;
+}
+.Servicelist{
+    font-size: 36px;
+    color: #1F2937; 
+    justify-content: center;
+}
+.box-wrapper {
+    background-color: wheat;
+    padding: 20px 20px;
+}
+
+#box {
+    width: 50px;
+    border: 3px solid blue;
+    padding: 10px 10px;
+    display: inline-block;
+    height: 50px ;
+    gap: 25;
+    text-align: initial;
+}
+.Third {
+    background-color: lavender;
+    padding: 70px 30px 20px 30px;
+}
+#quote {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.Third aside {
+float: right;
+padding: 0px 155px;
+}
+.container {
+    background-color: blue;
+}
+.container content{
+    color: white;
+}
+.endbutton {
+    background-color: blue;
+    border: 2px solid white;
+    border-radius: 3px;
+    color: white;
+    font-size: 13px;
+    width: 80px;
+    height: 30px;
+    align-content: flex-end;
+}
+.footer {
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+    padding: 5px;
+    display: flex;
+}
